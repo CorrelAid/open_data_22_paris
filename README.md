@@ -12,10 +12,18 @@ __They also suggested us a range of open datasets, for example:__
 * A list of datasets that correspond to the search « velo + espace public » (bike and public space) : https://opendata.paris.fr/explore/?disjunctive.theme&disjunctive.publisher&disjunctive.keyword&disjunctive.modified&disjunctive.features&sort=modified&q=v%C3%A9lo&refine.theme=Mobilit%C3%A9+et+Espace+Public
 
 ## Participants
-TBD
+__Group 1:__ [@Nathanlauga](https://github.com/Nathanlauga), Jane, Yu-Ying
+
+__Group 2:__ [@romainattie](https://github.com/romainattie), [@lilyatant](https://github.com/lilyatant), Ariane
+
+## Methods and results
+In a 6h hackathon, the participants formed groups, picked a challenge, familiarized themselves with the task and data, and conducted some analyses.
+The results and notebooks can be found __[here (group 1](https://github.com/CorrelAid/open_data_22_paris/tree/main/group_1)__ and __[here (group 2)](https://github.com/CorrelAid/open_data_22_paris/tree/main/group_2)__.
 
 ## Organizers
-TBD
+Hackathon initiated and led by [CorrelAid](https://github.com/CorrelAid).
+
+Local organization in Paris by [@Liyubov](https://github.com/Liyubov), [@chetanniyan](chetanniyan), and [@katoss](https://github.com/katoss). 
 
 ## Support
 <p float="left">
