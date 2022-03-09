@@ -18,7 +18,7 @@ __Group 2:__ [@romainattie](https://github.com/romainattie), [@lilyatant](https:
 
 ## Methods and results
 In a 6h hackathon, the participants formed groups, picked a challenge, familiarized themselves with the task and data, and conducted some analyses.
-The results and notebooks can be found __[here (group 1](https://github.com/CorrelAid/open_data_22_paris/tree/main/group_1)__ and __[here (group 2)](https://github.com/CorrelAid/open_data_22_paris/tree/main/group_2)__.
+The results and notebooks can be found __[here (group 1)](https://github.com/CorrelAid/open_data_22_paris/tree/main/group_1)__ and __[here (group 2)](https://github.com/CorrelAid/open_data_22_paris/tree/main/group_2)__.
 
 ## Organizers
 Hackathon initiated and led by [CorrelAid](https://github.com/CorrelAid).
