@@ -18,4 +18,8 @@ TBD
 TBD
 
 ## Support
-TBD
+<p float="left">
+  <img src="img/LPI_LOGO_RVB.png" width="200">
+  <img src="img/HEIDI-logo.png" width="300">
+</p>
+
