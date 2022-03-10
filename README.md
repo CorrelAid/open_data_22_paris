@@ -4,7 +4,7 @@ For the [Open Data Day 2022](https://opendataday.org/) the [local chapter of Cor
 <img align="right" src="img/OPENDATA_sq.png" width="400">
 
 ## The challenge
-The City of Paris' innovation office and mobility agency kindly shared with us a real-world challenge: Increasing the offer of bike parking spots in Paris (__"Mission Vélo"__). They would like to base their decisions on data, to create efficient and relevant results. They shared with us some directions they identified so far to visualize the existing situation, identify the main facilities and businesses that don't have bicycle parking in immediate vicinity, the usage of vélib (rental bikes), to just name a few.
+The [City of Paris' innovation office and mobility department](https://www.paris.fr/a-velo) kindly shared with us a real-world challenge: Increasing the offer of bike parking spots in Paris (__"Mission Vélo"__). They would like to base their decisions on data, to create efficient and relevant results. They shared with us some directions they identified so far to visualize the existing situation, identify the main facilities and businesses that don't have bicycle parking in immediate vicinity, the usage of vélib (rental bikes), to just name a few.
 
 __They also suggested us a range of open datasets, for example:__
 * Availability of vélib bikes : https://opendata.paris.fr/explore/dataset/velib-disponibilite-en-temps-reel/
@@ -31,5 +31,6 @@ Local organization in Paris by [@Liyubov](https://github.com/Liyubov), [@chetann
 <p float="left">
   <img src="img/LPI_LOGO_RVB.png" width="200">
   <img src="img/HEIDI-logo.png" width="300">
+  <img src="img/Ville_de_Paris_logo.png" width="150">
 </p>
 
