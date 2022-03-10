@@ -1,5 +1,5 @@
 # Open Data Day 2022 - Paris
-For the [Open Data Day 2022](https://opendataday.org/) the [local chapter of CorrelAid in Paris](https://correlaid.org/en/correlaidx/paris/) organized a [hackathon](https://events.cri-paris.org/e/96/open-data-day-hackathon-paris-in-numbers). Under the topic "Paris in Numbers" the participants worked on a challenge suggested by the City of Paris - "Mission vélo".
+For the [Open Data Day 2022](https://opendataday.org/) the [local chapter of CorrelAid in Paris](https://correlaid.org/en/correlaidx/paris/) organized a [hackathon](https://events.cri-paris.org/e/96/open-data-day-hackathon-paris-in-numbers). Under the topic "Paris in Numbers" the participants worked on a challenge suggested by the City of Paris - "Mission vélo". We also shared some [other open datasets](https://github.com/cityinteractionlab/open_data_days_2022) for inspiration.
 
 <img align="right" src="img/OPENDATA_sq.png" width="400">
 
