@@ -12,6 +12,7 @@ __They also suggested us a range of open datasets, for example:__
 * Bike counting : https://opendata.paris.fr/explore/dataset/comptage-velo-donnees-compteurs/
 * Temporary bike lanes : https://opendata.paris.fr/explore/dataset/deconfinement-pistes-cyclables-temporaires/
 * A list of datasets that correspond to the search « velo + espace public » (bike and public space) : https://opendata.paris.fr/explore/?disjunctive.theme&disjunctive.publisher&disjunctive.keyword&disjunctive.modified&disjunctive.features&sort=modified&q=v%C3%A9lo&refine.theme=Mobilit%C3%A9+et+Espace+Public
+* Data prepared and featured here https://github.com/cityinteractionlab/open_data_days_2022 
 
 ## Participants
 __Group 1:__ [@Nathanlauga](https://github.com/Nathanlauga), Jane, Yu-Ying
